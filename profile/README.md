@@ -1,4 +1,4 @@
-# StratoLab
+# [StratoLab](https://stratolab.github.io/)
 
 StratoLab is a project built to be usable by schools, community groups, youth organizations, and more as an introduction to programming, electronics and team building.
 
